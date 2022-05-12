@@ -1,31 +1,116 @@
-<h1 align="center">Hi 👋, I'm Yash Bankar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrbankar&label=Profile%20views&color=0e75b6&style=flat" alt="yashrbankar" /> </p>
+<!-- <h1>Hi there, I'm <a target="_blank" href="http://yashrbankar.netlify.app/">Yash Bankar</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1>I am a Web Developer📱📱</h1> -->
+<!-- <a href="#"><img width="100%"  height="auto" src="https://www.canva.com/design/DAFAgg1UttY/qmqeunwssj-DrhES6m6ipA/edit?utm_content=DAFAgg1UttY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" height="175px"/></a> -->
+<a href="#"><img   height="20%" src="https://github.com/yashrbankar/yashrbankar/blob/main/banner.png" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashrbankar" alt="yashrbankar" /></a> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash </h1>
+<h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and a Competitive Programmer .</h3>
 
-<p align="left"> <a href="https://twitter.com/yashrbankar" target="blank"><img src="https://img.shields.io/twitter/follow/yashrbankar?logo=twitter&style=for-the-badge" alt="yashrbankar" /></a> </p>
+---
 
-- 🌱 I’m currently learning **DSA | Webdev**
+|<img src="https://github-readme-stats.vercel.app/api?username=yashrbankar&show_icons=true&theme=cobalt"></img> |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=yashrbankar"/>|
+|---|---|
+ 
+ ---
+ 
+- 👨‍🎓Hey there, I am Yash Bankar , currently embarking on my engineering journey from D.Y. Patil Insititude Management and research , Akurdi, Pune.<br/>
+- 💻I am an **Web developer** as well as a **Competitive Programmer** <br/>
+<!-- - My Primary Coding language is **C++**.<br/> -->
+- 3⭐ coder on **leetcode**<br/>
 
-- 💬 Ask me about **DSA | C++ | OPPS**
+- I love❤️ to make **exciting projects**.<br/>
+- I really enjoy learning 🚀 new frameworks like⚡ **React**.<br/>
+<div align="center">
+  <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width =       100px></h2>
+</div>
 
-- 📫 How to reach me **yashrbankar@gmail.com**
+<!-- <h1>Technical Skills 🛠</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yashrbankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashrbankar" height="30" width="40" /></a>
-<a href="https://instagram.com/yashrbankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashrbankar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashrbankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashrbankar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/yashrbankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="yashrbankar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yashrbankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashrbankar" height="30" width="40" /></a>
+<p align="center"> 
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffdd00?style=for-the-badge&logo=firebase&logoColor=orange" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-ffca28?style=for-the-badge&logo= bootstrap&logoColor=black" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+</p> -->
+##                                🚀 Languages and Tools:
+<br>
+<p align="center"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+     </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a> 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/></a> 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+  <br>   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashrbankar&show_icons=true&locale=en&layout=compact" alt="yashrbankar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashrbankar&show_icons=true&locale=en" alt="yashrbankar" /></p>
+## 🤝 Connect with me  
+<div align="center">
+ <a href="ttps://www.linkedin.com/in/yash-bankar-7962a51ba/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrbankar&" alt="yashrbankar" /></p>
-<h3 align="right">@yashrbankar</h3>
+<a href="https://github.com/yashrbankar" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/yashrbankar/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div>
+
+### Recent Projects 👨‍💻
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashrbankar&repo=NGO-Portal&show_icons=true&theme=monokai"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashrbankar&repo=Bank-management-system&show_icons=true&theme=monokai"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashrbankar&repo=Foodie.com&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashrbankar&repo=Portfolio&show_icons=true&theme=great-gatsby">                                                                                                                                          
+</div>
+
+<div align="center">
+ 
+ <a href="https://github.com/atharvakutwal2002/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakutwal2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+ <a href="https://github.com/yashrbankar/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashrbankar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+                                                                                                      
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+ ##                   lets have some humour 😁
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+<!--  [![trophy](https://github-profile-trophy.vercel.app/?username=atharvakutwal2002)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/atharvakutwal2002)                                                                                            -->
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/yashrbankar.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/yashrbankar"></img>
+                                                     
+                                                 
+                                                     
+</div>
+
+---
+
+Leave a ⭐ from [here](https://github.com/yashrbankar/yashrbankar) if you like 😁
