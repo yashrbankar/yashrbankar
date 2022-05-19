@@ -4,7 +4,7 @@
 <a href="#"><img   height="20%" src="https://github.com/yashrbankar/yashrbankar/blob/main/banner.png" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash </h1>
-<h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and a Competitive Programmer .</h3>
+<h3 align="center">I'm exploring Andriod Dev and a Competitive Programmer .</h3>
 
 ---
 
