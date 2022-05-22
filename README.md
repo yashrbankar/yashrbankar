@@ -14,14 +14,14 @@
  ---
  
 - 👨‍🎓Hey there, I am Yash Bankar , currently embarking on my engineering journey from D.Y. Patil Insititude Management and research , Akurdi, Pune.<br/>
-- 💻I am an **Web developer** as well as a **Competitive Programmer** <br/>
+- 💻I am an **App developer** as well as a **Competitive Programmer** <br/>
 <!-- - My Primary Coding language is **C++**.<br/> -->
-- 3⭐ coder on **leetcode**<br/>
+- 2⭐ coder on **leetcode**<br/>
 
 - I love❤️ to make **exciting projects**.<br/>
-- I really enjoy learning 🚀 new frameworks like⚡ **React**.<br/>
+- I really enjoy learning 🚀 ⚡ **Andriod Dev**.<br/>
 <div align="center">
-  <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width =       100px></h2>
+  <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width =       200px></h2>
 </div>
 
 <!-- <h1>Technical Skills 🛠</h1>
@@ -32,13 +32,10 @@
 <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffdd00?style=for-the-badge&logo=firebase&logoColor=orange" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-ffca28?style=for-the-badge&logo= bootstrap&logoColor=black" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </p> -->
