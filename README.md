@@ -108,6 +108,4 @@
 ---
 
 Leave a⭐from[here](https://github.com/yashrbankar/yashrbankar) if you like.😁 
-@yashrbankar 
-
-Changes in readme 
+@yashrbankar  
