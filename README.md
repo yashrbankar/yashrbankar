@@ -3,8 +3,7 @@
 <!-- <a href="#"><img width="100%"  height="auto" src="https://www.canva.com/design/DAFAgg1UttY/qmqeunwssj-DrhES6m6ipA/edit?utm_content=DAFAgg1UttY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" height="175px"/></a> -->
 <a href="#"><img   height="20%" src="https://github.com/yashrbankar/yashrbankar/blob/main/banner.png" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash </h1>
-<h3 align="center">I'm exploring Andriod Dev and a Competitive Programmer .</h3>
+
 
 ---
 
