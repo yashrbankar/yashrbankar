@@ -99,8 +99,7 @@
 <img src="https://img.shields.io/github/followers/yashrbankar.svg?style=social&label=Follow"></img>
 
 <img src="https://gpvc.arturio.dev/yashrbankar"></img>
-                                                     
-                                                 
+                                                                                              
                                                      
 </div>
 
