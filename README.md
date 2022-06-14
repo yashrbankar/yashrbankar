@@ -15,7 +15,7 @@
 - 👨‍🎓Hey there, I am Yash Bankar , currently embarking on my engineering journey from D.Y. Patil Insititude Management and research , Akurdi, Pune.<br/>
 - 💻I am an **App developer** as well as a **Competitive Programmer** <br/>
 <!-- - My Primary Coding language is **C++**.<br/> -->
-- 2⭐ coder on **leetcode**<br/>
+- 2⭐ coder on **codechef**<br/>
 
 - I love❤️ to make **exciting projects**.<br/>
 - I really enjoy learning 🚀 ⚡ **Andriod Dev**.<br/>
