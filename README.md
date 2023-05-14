@@ -85,16 +85,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashrbankar&repo=NGO-Portal&show_icons=true&theme=monokai"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashrbankar&repo=Bank-management-system&show_icons=true&theme=monokai"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashrbankar&repo=Foodie.com&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashrbankar&repo=Portfolio&show_icons=true&theme=great-gatsby">                                                                                                                                          
-</div>
-
-
-
-<div align="center">
- 
- <a href="https://github.com/atharvakutwal2002/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakutwal2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
- <a href="https://github.com/yashrbankar/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashrbankar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashrbankar&repo=Portfolio&show_icons=true&theme=great-gatsby">                                                          
                                                                                                       
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
  ##                   lets have some humour 😁
